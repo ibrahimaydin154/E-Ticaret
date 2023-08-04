@@ -1,0 +1,146 @@
+[
+    {
+        "id":1,
+        "src":"./images/Koltuk/Ahsen1.jpg",
+        "category":"Koltuk",
+        "price":2000,
+        "description":"Ahsen Koltuk Takımı"
+    },
+    {
+        "id":2,
+        "src":"./images/Koltuk/Dolce1.png",
+        "category":"Koltuk",
+        "price":5000,
+        "description":"Dolce Vita Koltuk Takımı"
+    },
+    {
+        "id":3,
+        "src":"./images/Koltuk/Akik1.png",
+        "category":"Koltuk",
+        "price":8000,
+        "description":"Akik Koltuk Takımı"
+    },
+    {
+        "id":4,
+        "src":"./images/Koltuk/Bravo1.png",
+        "category":"Koltuk",
+        "price":11000,
+        "description":"Bravo Koltuk Takımı"
+    },
+    {
+        "id":5,
+        "src":"./images/Koltuk/Divano1.png",
+        "category":"Koltuk",
+        "price":16000,
+        "description":"Divano Koltuk Takımı"
+    },
+
+    {
+        "id":6,
+        "src":"./images/Koltuk/Dolunay1.png",
+        "category":"Koltuk",
+        "price":19000,
+        "description":"Dolunay Koltuk Takımı"
+    },
+
+
+
+    {
+        "id":7,
+        "src":"./images/Deluxe/Alfa1.png",
+        "category":"Deluxe",
+        "price":32000,
+        "description":"Alfa Deluxe Takım"
+    },
+    {
+        "id":8,
+        "src":"./images/Deluxe/Amazon1.png",
+        "category":"Deluxe",
+        "price":11000,
+        "description":"Amazon Deluxe Takım"
+    },
+    {
+        "id":9,
+        "src":"./images/Deluxe/Barbaros1.png",
+        "category":"Deluxe",
+        "price":1000,
+        "description":"Barbaros Deluxe Takım"
+    },
+    {
+        "id":10,
+        "src":"./images/Deluxe/Basak1.jpg",
+        "category":"Deluxe",
+        "price":102000,
+        "description":"BAŞAK DELUXE TAKIM"
+    },
+
+
+
+    {
+        "id":11,
+        "src":"./images/Köse/ahsenkose.png",
+        "category":"Köse",
+        "price":102000,
+        "description":"Ahsen Long Köşe Takımı"
+    },
+    {
+        "id":12,
+        "src":"./images/Köse/akik-long-kose-02.jpg",
+        "category":"Köse",
+        "price":102000,
+        "description":"Akik Long Köşe Takımı"
+    },
+    {
+        "id":13,
+        "src":"./images/Köse/flowerkose2.png",
+        "category":"Köse",
+        "price":102000,
+        "description":"Flower Köşe Takımı"
+    },
+    {
+        "id":14,
+        "src":"./images/Köse/elantrakose2.png",
+        "category":"Köse",
+        "price":102000,
+        "description":"Elantra Köşe Takımı"
+    },
+    {
+        "id":15,
+        "src":"./images/Köse/bonita2.png",
+        "category":"Köse",
+        "price":102000,
+        "description":"Bonita Köşe Takımı"
+    },
+    {
+        "id":16,
+        "src":"./images/Köse/hunkar2.png",
+        "category":"Köse",
+        "price":102000,
+        "description":"Hünkar Köşe Takımı"
+    },
+
+
+
+
+    {
+        "id":17,
+        "src":"./images/YatakSet/aspendos-yatak.png",
+        "category":"YatakSet",
+        "price":102000,
+        "description":"Aspendos Yatak"
+    },
+    {
+        "id":18,
+        "src":"./images/YatakSet/binga-duo.jpg",
+        "category":"YatakSet",
+        "price":102000,
+        "description":"Binga Duo Yatak"
+    },
+    {
+        "id":19,
+        "src":"./images/YatakSet/YATAK-1-flaret.png",
+        "category":"YatakSet",
+        "price":102000,
+        "description":"Flaret Yatak"
+    }
+]
